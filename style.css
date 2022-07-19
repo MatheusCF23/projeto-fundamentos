@@ -7,3 +7,16 @@ body{
     background-color: green;
     color: white;
 }
+
+.classe{
+    color: white;
+}
+
+#minha_foto{
+    border-radius: 20%;
+}
+
+#fim{
+    background-color: green;
+    color: white;
+}
