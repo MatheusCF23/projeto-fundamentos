@@ -38,7 +38,22 @@ body{
     background-color: #11a36a;
 }
 
-#container-lições{
+#aprendizado{
     text-align: center;
-    margin-bottom: 30px;
+}
+
+#aprendizado_esquerda{
+    margin-left: 40px;
+    max-width: 40%;
+    float: left;
+}
+
+#aprendizado_direita{
+    margin-right: 40px;
+    max-width: 40%;
+    float: right;
+}
+
+#p1{
+    background-color: #11a36a;
 }
