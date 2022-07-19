@@ -18,6 +18,10 @@ body{
     text-align: center;
 }
 
+#foto{
+    text-align: center;
+}
+
 .classe{
     color: white;
     text-decoration: none;
@@ -43,13 +47,13 @@ body{
 }
 
 #aprendizado_esquerda{
-    margin-left: 40px;
+    margin-left: 20%;
     max-width: 40%;
     float: left;
 }
 
 #aprendizado_direita{
-    margin-right: 40px;
+    margin-right: 20%;
     max-width: 40%;
     float: right;
 }
@@ -57,3 +61,4 @@ body{
 #p1{
     background-color: #11a36a;
 }
+
