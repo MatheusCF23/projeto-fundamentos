@@ -1,10 +1,10 @@
 /* iniciando projeto */
-
 * {
   margin: 0;
   padding: 0;
   border: 0;
   font-family: Arial, Helvetica, sans-serif;
+  letter-spacing: 0;
 }
 
 header {
@@ -60,7 +60,6 @@ body {
 
 #aprendizado {
   text-align: center;
-  letter-spacing: normal;
 }
 
 #aprendizado_esquerda {
