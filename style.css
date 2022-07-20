@@ -1,63 +1,65 @@
-*{
-  margin: 0;
-  padding: 0;
-  border: 0;
+/* iniciando projeto */
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
 }
 
-body{
+body {
     background-color: rgb(253, 251, 251);
     font-family: Arial, Helvetica, sans-serif;
 }
 
-#cabeçalho{
+#cabeçalho {
     background-color: #11a36a;
     color: white;
 }
 
-#titulo{
+#titulo {
     text-align: center;
 }
 
-#foto{
+#foto {
     text-align: center;
 }
 
-.classe{
+.classe {
     color: white;
     text-decoration: none;
 }
 
-#minha_foto{
+#minha_foto {
     border-radius: 20%;
 }
 
-#fim{
+#fim {
     background-color: #11a36a;
     color: white;
 }
 
-.button{
-    color: white ;
+.button {
+    color: white;
     text-decoration: none;
     background-color: #11a36a;
 }
 
-#aprendizado{
+#aprendizado {
     text-align: center;
 }
 
-#aprendizado_esquerda{
+#aprendizado_esquerda {
     margin-left: 20%;
     max-width: 40%;
     float: left;
 }
 
-#aprendizado_direita{
+#aprendizado_direita {
     margin-right: 20%;
     max-width: 40%;
     float: right;
 }
 
-#p1{
+#p1 {
     background-color: #11a36a;
 }
