@@ -15,10 +15,13 @@ body {
 #cabecalho {
   background-color: grey;
   color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  top: 0%;
 }
 
 #titulo {
   text-align: center;
+  font-size: 40px;
 }
 
 #foto {
@@ -28,6 +31,7 @@ body {
 .classe {
   color: white;
   text-decoration: none;
+  font-size: 20px;
 }
 
 #minha_foto {
@@ -44,6 +48,7 @@ body {
   color: white;
   text-decoration: none;
   background-color: grey;
+  font-size: 20px;
 }
 
 #aprendizado {
@@ -54,16 +59,22 @@ body {
   margin-left: 20%;
   max-width: 40%;
   float: left;
+  font-size: 20px;
+  color: black;
 }
 
 #aprendizado_direita {
   margin-right: 20%;
   max-width: 40%;
   float: right;
+  font-size: 20px;
+  color: black;
 }
 
 #p1 {
   background-color: grey;
+  color: white;
+  font-size: 40px;
 }
 
 .lado-esquerdo {
@@ -71,6 +82,7 @@ body {
   max-width: 40%;
   float: left;
   background-color: grey;
+  font-size: 20px;
 }
 
 .lado-direito {
@@ -78,4 +90,5 @@ body {
   max-width: 40%;
   float: right;
   background-color: grey;
+  font-size: 20px;
 }
